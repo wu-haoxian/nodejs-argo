@@ -1,4 +1,4 @@
-name: Build and Push Docker Image-DCD
+name: Build and Push Docker Image-railway
 
 on:
   push:
